@@ -1,6 +1,16 @@
-# DSA210-SPRING-PROJECT
+# Project: Impact of Weather & Other Factors on Premier League Goals
+## Overview
+This project investigates whether weather conditions, crowd attendance, referees, and the introduction of VAR have an impact on the number of goals scored in the Premier League. The focus is on teams based in London (Arsenal, Chelsea, etc.) and Manchester (Man City, Man United).
 
-The aim of my project is to check whether the weather, specifically the temperature, has an effect on the number of goals scored in the premiere league, i will be mainly focusing on the teams based in London(Arsenal, Chelsea, etc..) and teams based in Manchester(Man United and Man City). By integrating match data with corresponding weather records, this will help us know whether the outcome of football matches is effected by weather.
+## Data Sources
+- Match Data: Kaggle’s Premier League dataset (2000/2001, 2001/2002, 2020/2021, 2021/2022 seasons).
+- Weather Data: Collected from Visual Crossing, covering temperature, rainfall, humidity, and wind speed.
+- Attendance Data: Available only for 2000/2001 and 2001/2002 seasons.
+- VAR Comparison: Checking goal trends before and after VAR (Video Assistant Referee) introduction.
 
-I will be using a user made database i found on kaggle which has information on all  Premiere League matches during certain seasons. I chose the 2020/2021 and 2021/2022 seasons. As for the weather information, i will be using weather data i obtained from visualcrossing, which has the weather for London and Manchester during the 20/21 premiere league season, i will then format the dates in the two data sets to make sure they're in the same format to make accessing them easier. Then check whether the weather has an effect on goals scored during both seasons for each team. 
-
+## Key Questions Explored
+- Does temperature impact the number of goals scored?
+- Do other weather factors (rain, humidity, wind) play a role?
+- Does a higher crowd attendance lead to more goals?
+- Do some referees influence the game more (e.g. red cards)?
+- How did the introduction of VAR change goal-scoring patterns?
