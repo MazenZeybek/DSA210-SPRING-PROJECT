@@ -14,3 +14,4 @@ This project investigates whether weather conditions, crowd attendance, referees
 - Does a higher crowd attendance lead to more goals?
 - Do some referees influence the game more (e.g. red cards)?
 - How did the introduction of VAR change goal-scoring patterns?
+- Does the time of day (morning, afternoon, evening) impact goals scored?
