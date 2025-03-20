@@ -39,6 +39,6 @@ If any of these factors turn out to have a significant effect on the number of g
 - **Evening Games = More Goals?** Does the sunlight affect how players play, or are they more tired playing not long after they wake up, or not too long before they sleep?
 
 ## Conclusion
-Football is more than just skill—external factors like weather, referees, and fan presence can influence the game. In this project i aim to use data to uncover hidden patterns in goal-scoring trends, particularly focusing on how conditions impact teams from London and Manchester.  
+Football is more than just skill, external factors like weather, referees, and fan presence can influence the game. In this project i aim to use data to uncover hidden patterns in goal-scoring trends, particularly focusing on how conditions impact teams from London and Manchester.  
 
 If this research proves that these external factors have an effect on goal-scoring, then football fans finally have the data to back up the famous stoke quote . If not, then maybe er should all retire this phrase.
