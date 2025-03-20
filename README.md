@@ -3,7 +3,7 @@
 ## Overview
 This project aims to analyze whether external factors such as weather conditions, crowd attendance, referee decisions, and the introduction of VAR have had a measurable impact on goal-scoring patterns in the Premier League. While it's known that tactics, player forms and team managers play a big role in the amount of goals scored, external conditions could also influence how many goals are scored in a game.
 
-I will be specifically focusing on teams based in London (Arsenal, Chelsea, Tottenham, etc.) and Manchester (Man City, Man United). These two cities house 8 teams,5 of which of are from the known "Big 6" which are the best and most dominant teams in the league. By analyzing historical match data and weather reports, I aim to determine whether factors like temperature, rain, wind speed, and humidity correlate with changes in goal frequency.
+I will be specifically focusing on teams based in London (Arsenal, Chelsea, Tottenham, etc.) and Manchester (Man City, Man United). These two cities house 8 teams,5 of which of are from the known "Big 6" which are the best and most dominant teams in the league. By analyzing historical match data and weather reports, I aim to determine whether factors like temperature, rain, and humidity correlate with changes in goal frequency.
 
 Additionally, i will investigate whether higher crowd attendance is correlated to the amount of goals scored, if certain referees influence game outcomes, and whether the introduction of VAR in 2019/20 has significantly impacted how many goals are scored per match.
 
