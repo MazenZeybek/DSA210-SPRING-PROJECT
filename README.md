@@ -13,7 +13,7 @@ Ever since i was a kid i've heard the quote *"but can he do it on a cold rainy n
 If any of these factors turn out to have a significant effect on the number of goals scored, this information could be valuable for bettors looking to improve their predictions. By identifying factors that affect goal-scoring, bettors could make more accurate betting decisions. Understanding these trends might give them an edge in predicting total goals scored per game, potentially increasing their betting success.
 
 ## Data Sources
-- **Match Data**: [Premier League dataset on Kaggle](https://www.kaggle.com/datasets/saife245/english-premier-league) (includes attendance data, date and time of match, and referee)
+- **Match Data**: [Premier League dataset](https://www.kaggle.com/datasets/saife245/english-premier-league) (includes attendance data, date and time of match, and referee)
 - **Weather Data**: Collected from [Visual Crossing](https://www.visualcrossing.com/weather-query-builder/) (dataset not directly on the website, had to request and download)
 - **VAR Impact Analysis**: Comparing goal trends before (early 2000s) and after the introduction of VAR (post-2020).
 
